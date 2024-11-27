@@ -23,7 +23,10 @@ This dashboard uses data about your digital marketing activities, including:
 - **Device Type**: Whether users clicked on your ad using a mobile phone, tablet, or computer.
 - **Ad Network**: Where your ads were shown (e.g., Google Search, Display Network).
 
-Tech:
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4b96522b-0fd5-4536-b615-7f196b823756">
+
+
 - **Power BI**: Power BI to create the dashboard and make everything interactive so you can dig into the details.
 - **SQL**: For querying the data and transforming it into a usable format.
 - **Python**: Used for cleaning and preparing the data before it’s put into the dashboard.
