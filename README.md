@@ -41,15 +41,14 @@ This dashboard uses data about your digital marketing activities, including:
   
 ## Cleaning the Data
 
-Before the data can be used in the dashboard, it needs to go through a cleaning process. Here’s how we do it:
-
 1. **Remove duplicates**: We make sure there are no repeated rows.
 2. **Handle missing data**:
-   - We drop rows with missing important columns (like `date` or `campaign`).
-   - We fill missing numerical columns like `cost` with the median or the most common value.
+   - Drop rows with missing important columns (like `date` or `campaign`).
+   - filling missing numerical columns like `cost` with the median or the most common value.
    - Categorical columns with missing values are filled with 'Unknown'.
-3. **Correct data types**: We check if columns have the right types (e.g., `cost` should be a number, `date` should be a date).
-4. **Remove outliers**: We get rid of any weird data points, like negative clicks or impressions.
-5. **Reformat data**: We make sure the `date` column is in the right format for analysis.
-6. **Reset index**: After cleaning, we reset the dataset's index for a fresh start.
-
+3. **Correct data types**
+4. **Remove outliers**: get rid of any weird data points, like negative clicks or impressions.
+5. **Reformat data**: checking the `date` column is in the right format for analysis.
+6. **Reset index**: After cleaning, the dataset's index reset
+7. **New Columns for Analysis: Derived metrics such as Click-through Rate (CTR) and Cost per Conversion provide additional insights into campaign performance.
+8. 
