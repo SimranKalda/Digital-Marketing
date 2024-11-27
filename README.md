@@ -50,4 +50,4 @@ This dashboard uses data about your digital marketing activities, including:
 5. **Reformat data**: checking the `date` column is in the right format for analysis.
 6. **Reset index**: After cleaning, the dataset's index reset
 7. **New Columns for Analysis: Derived metrics such as Click-through Rate (CTR) and Cost per Conversion provide additional insights into campaign performance.
-8. 
+
