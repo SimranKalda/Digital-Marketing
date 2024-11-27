@@ -31,8 +31,7 @@ This dashboard uses data about your digital marketing activities, including:
 - **SQL**: For querying the data and transforming it into a usable format.
 - **Python**: Used for cleaning and preparing the data before it’s put into the dashboard.
 
-
-- **Quick Metrics**: You’ll see your key stats—Impressions, Clicks, Conversions, CTR, CPC—right at the top. These numbers give you an overview of how your campaigns are performing.
+- **Quick Metrics**: Impressions, Clicks, Conversions, CTR, CPC—right at the top. These numbers give an overview of how your campaigns are performing.
 - **Trends Over Time**: Hover over the graph to see daily changes in impressions and clicks.
 - **Campaign Breakdown**: The “Conversion by Campaign” chart will show you how different campaigns are performing.
 - **Weekday Performance**: Want to know which days are driving the most conversions? The weekday chart tells you which days perform the best.
